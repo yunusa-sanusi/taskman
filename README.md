@@ -38,8 +38,10 @@
 ## Overview
 
 ![screenshot](./todo-all.png)
-![screenshot](./todo-all-no.png) | ![screenshot](./todo-active-no.png)
-![screenshot](./todo-active.png) | ![screenshot](./todo-complete.png)
+![screenshot](./todo-all-no.png)
+![screenshot](./todo-active-no.png)
+![screenshot](./todo-active.png)
+![screenshot](./todo-complete.png)
 
 ### Built With
 
