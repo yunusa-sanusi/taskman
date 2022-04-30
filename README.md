@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/GgAm1jZeXoc3EF4EUVjx">
       Solution
     </a>
     <span> | </span>
@@ -52,6 +52,12 @@
 - [CSS]
 
 ## Features
+
+- User can add task.
+- User can delete task.
+- User can view task based on the status of the task.
+- User can clear all completed task.
+- Stores task in local storage.
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
